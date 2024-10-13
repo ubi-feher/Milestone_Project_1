@@ -48,6 +48,14 @@ header{
 .upcoming-gigs-container {
     text-align: center;
 }
+.confirmation-container{
+    width: 100%;
+    height: 180px;
+   text-align: center;
+}
+.confirmation-container p{
+    margin: 120px;
+}
 /*-----------------Block divider*/
 .block-divider {
     width: 100px;
@@ -77,6 +85,9 @@ header{
 
         
     }
+/*-----------------Buttons
+.btn btn-danger {
+    align-items: center;*/
 
 /*-----------------Footer*/
 footer{
