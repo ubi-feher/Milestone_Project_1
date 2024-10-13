@@ -26,7 +26,6 @@ header{
     font-size: 20px;
     text-align: center;
     margin: 50px;
-    padding-right: 30px;
 
 }
 
@@ -40,6 +39,14 @@ header{
 }
 .intro-container{
     margin-top: 20px;
+}
+.band-members-container{
+    text-align: center;
+    width: 100%;
+    height: 150px;
+}
+.upcoming-gigs-container {
+    text-align: center;
 }
 /*-----------------Block divider*/
 .block-divider {
@@ -75,8 +82,8 @@ header{
 footer{
     font-family: "Shadows Into Light", cursive;
     font-weight: 600;
-  font-style: normal;
-  width: 100%;
+    font-style: normal;
+    width: 100%;
     height: 50px;
     background-color: rgb(187, 183, 183);
 }
