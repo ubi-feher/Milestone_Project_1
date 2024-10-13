@@ -1,0 +1,15 @@
+body{
+    font-family: "Montserrat", sans-serif; 
+}
+
+header{
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 600;
+  font-style: normal;
+}
+
+footer{
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+  font-style: normal;
+}
