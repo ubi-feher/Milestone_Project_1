@@ -30,12 +30,24 @@ header{
 
 }
 
-/*-----------------Containers*/
+/*-----------------Body Containers*/
+.container-title{
+    text-align: center;
+}
 .hero-container{
     width: 100%;
     height: 300px;
 }
-
+.intro-container{
+    margin-top: 20px;
+}
+/*-----------------Block divider*/
+.block-divider {
+    width: 100px;
+    height: 5px;
+    border: 0;
+    background-color: #e00909ec;
+}
 /*-----------------Hover.css*/
 .hvr-sweep-to-right:before {
     background: rgba(97, 95, 95, 0.2);
