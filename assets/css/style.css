@@ -25,8 +25,11 @@ header{
     color:black;
     font-size: 20px;
    text-align: right;
-   /* margin: 50px; */
+   /*margin: 50px;*/
 
+}
+.navbar .navbar-toggler {
+    border: 0;
 }
 
 /*-----------------Body Containers*/
@@ -128,7 +131,10 @@ footer{
 .nav-footer li a{
     color:black;
     font-size: 20px;
-    text-align: left;
+    text-align: right;
     margin: 10px;
     padding: 0;
+}
+.list-inline {
+    text-align: right;
 }
