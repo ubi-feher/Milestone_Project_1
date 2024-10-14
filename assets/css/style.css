@@ -30,6 +30,15 @@ header{
 }
 
 /*-----------------Body Containers*/
+
+.logo-container {
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        max-width: 140px;
+        max-height: 140px;
+        margin-left: 10px;
+}
 .container-title{
     text-align: center;
 }
@@ -81,14 +90,10 @@ header{
 }
 
 /*-----------------Images*/
-.logo{
-    background: url("../images/xzitz_logo.png");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        max-width: 140px;
-        max-height: 140px;
-        margin-left: 10px;
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
 }
 .hero-image{
         background: url("../images/xzitz_hero.jpg");
