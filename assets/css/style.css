@@ -43,12 +43,16 @@ header{
     text-align: center;
 }
 .hero-container{
+    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
     width: 100%;
-    height: 600px;
+   
 }
 .intro-container{
     margin-top: 20px;
     width: 100%;
+    height: 400px;
 }
 .intro-text{
     text-align: center;
@@ -95,18 +99,11 @@ header{
     max-width: 100%;
     height: auto;
 }
-.hero-image{
-        background: url("../images/xzitz_hero.jpg");
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
 
-        
-    }
-/*-----------------Buttons
+/*-----------------Buttons*/
 .btn btn-danger {
-    align-items: center;*/
-
+    align-items: center;
+}
 /*-----------------Footer*/
 footer{
     font-family: "Shadows Into Light", cursive;
