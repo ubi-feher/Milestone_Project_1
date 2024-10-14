@@ -1,5 +1,6 @@
 body{
     font-family: "Montserrat", sans-serif; 
+    width: 100%;
 }
 /*----------Heading*/
 
@@ -55,7 +56,6 @@ header{
 .intro-container{
     margin-top: 20px;
     width: 100%;
-    height: 400px;
 }
 .intro-text{
     text-align: center;
@@ -113,6 +113,9 @@ header{
 /*-----------------Buttons*/
 .btn btn-danger {
     align-items: center;
+}
+button.navbar-toggler{
+    display: inline-block;
 }
 /*-----------------Footer*/
 footer{
