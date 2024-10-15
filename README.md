@@ -16,20 +16,24 @@ README file for Milestone Project 1 - The Xzitz
       ![Navigation menu-mobile](https://github.com/user-attachments/assets/defb270d-a8de-4af8-9fb8-322a64e985b5)
 
   2. Then I made sure in the Band Members section the names are shown side-by-side on the desktop              version
-    
-    
-    On the mobile version they are shown in individual lines to make it easier to read
-    
-  3. On the Gallery page the photos are shown in blocks of 3 for the desktop version, and the Videos are all in one row
-    
-    
-    For the mobile version both the photos and videos appear in individual lines to make them easier to view
-    
-    
+     ![Band Members-desktop](https://github.com/user-attachments/assets/19f5d9f2-1afa-4b80-91e5-b437faaaf108)
+
+     On the mobile version they are shown in individual lines to make it easier to read
+    ![Band Members-mobile](https://github.com/user-attachments/assets/abd7720f-199b-4069-a46d-c500dbd7175f)
+
+  3.On the Gallery page the photos are shown in blocks of 3 for the desktop version, and the Videos are all in one row 
+  ![Photos in Gallery-desktop](https://github.com/user-attachments/assets/7fd22aff-bb9b-4c60-936d-c191de87ab96)
+![Videos in Gallery-desktop](https://github.com/user-attachments/assets/9017efff-fd56-4dbb-8c1b-b80d4e67bb78)
+
+   For the mobile version both the photos and videos appear in individual lines to make them easier to view
+   ![Photos in Gallery-mobile](https://github.com/user-attachments/assets/34107f0d-a4ef-4008-ba6b-b7e0d7bd598e)
+![Videos in Gallery-mobile](https://github.com/user-attachments/assets/02f959e2-b0ee-4383-9ca1-c2981a3be92e)
   4. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info
-   
+   ![Contact Page-prompt](https://github.com/user-attachments/assets/17d2eda7-a4b5-4d5b-bf4b-b756fe099799)
+
   5. When the user completes the form correctly and submits it, they are taken to the Confirmation page
-    
+    ![Contact form submission](https://github.com/user-attachments/assets/80faed62-6c00-45d5-b908-f24b9749fb17)
+
       
 ### Bugs discovered
    I wanted to add a toggle button for the navigation bar to follow good UX principles when the page is viewed on a mobile, I tried to use the Bootstrap navbar toggle function for this, however when I applied it to the pages the button was invisible. Unfortunately I ran out of time and wasn't able to fix this issue so I removed the toggle function and opted for a simpler nav bar where the items align vertically on mobiles, to make sure I have a working solution.
