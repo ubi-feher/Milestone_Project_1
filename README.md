@@ -9,26 +9,28 @@ README file for Milestone Project 1 - The Xzitz
 ## Testing
    I used the link to the live page [https://ubi-feher.github.io/Milestone_Project_1/index.html] to carry out some functional testing, due to lack of time this section is not as well documented as I would have liked.
    1. First I made sure the page loads as expected and the navigation menu works and it highlights the page name when the user hovers over it:
+      
       Desktop view
       ![Navigation menu-desktop](https://github.com/user-attachments/assets/84a0774e-a733-4759-8f70-70b910ebde53)
       Mobile view (I added a breakpoint to the Tagline to hide it on mobile devices)
       ![Navigation menu-mobile](https://github.com/user-attachments/assets/defb270d-a8de-4af8-9fb8-322a64e985b5)
 
-    2. Then I made sure in the Band Members section the names are shown side-by-side on the desktop version:
+    2. Then I made sure in the Band Members section the names are shown side-by-side on the desktop              version
     ![Band Members-desktop](https://github.com/user-attachments/assets/81afc2ce-5809-4c27-a1da-f7008db0297e)
-    On the mobile version they are shown in individual lines to make it easier to read:
+    
+    On the mobile version they are shown in individual lines to make it easier to read
     ![Band Members-mobile](https://github.com/user-attachments/assets/72e2fd28-9cd7-4109-b212-fb36f4f152b3)
-    3. On the Gallery page the photos are shown in blocks of 3 for the desktop version, and the Videos are all in one row:
+    3. On the Gallery page the photos are shown in blocks of 3 for the desktop version, and the Videos are all in one row
     ![Photos in Gallery-desktop](https://github.com/user-attachments/assets/0e2cc633-c69a-40b9-b45f-fe333a23b9aa)
     
     ![Videos in Gallery-desktop](https://github.com/user-attachments/assets/67ae9cdd-df28-425c-ba84-b68d0b3d3d9c)
-    For the mobile version both the photos and videos appear in individual lines to make them easier to view:
+    For the mobile version both the photos and videos appear in individual lines to make them easier to view
     ![Photos in Gallery-mobile](https://github.com/user-attachments/assets/6f667e35-99f4-40c5-bfe6-041f04d34f91)
 
     ![Videos in Gallery-mobile](https://github.com/user-attachments/assets/191b41ce-f1d0-4725-b6da-cd3bfafd380f)
-    4. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info:
+    4. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info
     ![Contact Page-prompt](https://github.com/user-attachments/assets/e12186a2-21e1-4ef6-a446-a3976d0230f4)
-    5. When the user completes the form correctly and submits it, they are taken to the Confirmation page:
+    5. When the user completes the form correctly and submits it, they are taken to the Confirmation page
     ![Contact form submission](https://github.com/user-attachments/assets/1333b17e-8dfe-47d8-8feb-48566494a446)
       
 ### Bugs discovered
