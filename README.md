@@ -2,10 +2,10 @@ README file for Milestone Project 1 - The Xzitz
 
 ## UX / UI
 ### Project goal: 
-      to create a website where the band can share information, content and upcoming gigs with fans, they       also need a page where fans or potential promoters can submit queries and booking requests.  
+      to create a website where the band can share information, content and upcoming gigs with fans, they also need a page where fans or potential promoters can submit queries and booking requests.  
 ### Use Cases
-..* Fans of the band: As a fan or follower of the band, I'd like to find out more about them, see photos and videos of previous gigs and find out where the next gigs are going to be and when. I would also like to be able to get in touch with them, to find out how much it would cost to book them for a private party. 
-..* Pub / Club promoters: As a pub landlord I'd like to find out more about the band, see photos and videos of previous gigs to assess if the quality and style of their music would fit in with my venue. I want to see when their upcoming gigs are and when, so I can attend and see what they are like live, before I consider booking them. I would also like to be able to get in touch with them to discuss potential bookings for the future. 
+   1. Fans of the band: As a fan or follower of the band, I'd like to find out more about them, see photos and videos of previous gigs and find out where the next gigs are going to be and when. I would also like to be able to get in touch with them, to find out how much it would cost to book them for a private party. 
+   2. Pub / Club promoters: As a pub landlord I'd like to find out more about the band, see photos and videos of previous gigs to assess if the quality and style of their music would fit in with my venue. I want to see when their upcoming gigs are and when, so I can attend and see what they are like live, before I consider booking them. I would also like to be able to get in touch with them to discuss potential bookings for the future. 
 ## Testing
    I used the link to the live page [https://ubi-feher.github.io/Milestone_Project_1/index.html] to carry out some functional testing, due to lack of time this section is not as well documented as I would have liked.
    1. First I made sure the page loads as expected and the navigation menu works and it highlights the page name when the user hovers over it:
