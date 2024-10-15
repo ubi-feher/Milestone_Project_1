@@ -8,27 +8,27 @@ README file for Milestone Project 1 - The Xzitz
    2. Pub / Club promoters: As a pub landlord I'd like to find out more about the band, see photos and videos of previous gigs to assess if the quality and style of their music would fit in with my venue. I want to see when their upcoming gigs are and when, so I can attend and see what they are like live, before I consider booking them. I would also like to be able to get in touch with them to discuss potential bookings for the future. 
 ## Testing
    I used the link to the live page [https://ubi-feher.github.io/Milestone_Project_1/index.html] to carry out some functional testing, due to lack of time this section is not as well documented as I would have liked.
-   1. First I made sure the page loads as expected and the navigation menu works and it highlights the page name when the user hovers over it:
+  1. First I made sure the page loads as expected and the navigation menu works and it highlights the page name when the user hovers over it:
       
       Desktop view
       ![Navigation menu-desktop](https://github.com/user-attachments/assets/84a0774e-a733-4759-8f70-70b910ebde53)
       Mobile view (I added a breakpoint to the Tagline to hide it on mobile devices)
       ![Navigation menu-mobile](https://github.com/user-attachments/assets/defb270d-a8de-4af8-9fb8-322a64e985b5)
 
-    2. Then I made sure in the Band Members section the names are shown side-by-side on the desktop              version
+  2. Then I made sure in the Band Members section the names are shown side-by-side on the desktop              version
     
     
     On the mobile version they are shown in individual lines to make it easier to read
     
-    3. On the Gallery page the photos are shown in blocks of 3 for the desktop version, and the Videos are all in one row
+  3. On the Gallery page the photos are shown in blocks of 3 for the desktop version, and the Videos are all in one row
     
     
     For the mobile version both the photos and videos appear in individual lines to make them easier to view
     
     
-    4. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info
+  4. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info
    
-    5. When the user completes the form correctly and submits it, they are taken to the Confirmation page
+  5. When the user completes the form correctly and submits it, they are taken to the Confirmation page
     
       
 ### Bugs discovered
