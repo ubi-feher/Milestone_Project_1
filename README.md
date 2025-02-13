@@ -3,6 +3,7 @@
 ## README file for Code Institute - Milestone Project 1
 ### HTML/CSS Essentials - User Scentric, Static Front-End Website
 [ View repository in GitHub pages] (https://github.com/ubi-feher/Milestone_Project_1)
+
 [View Website Link] (https://ubi-feher.github.io/Milestone_Project_1/index.html)
 
 ## Project goal: 
@@ -11,10 +12,11 @@ to create a website where the band can share information, content and upcoming g
 + Increase following on social media
 + Increase number of new bookings for gigs
 ## UX / UI
-
+Users will be able to find information on the band and its members, check out photos and videos from previous gigs to get a real feel for what the band is about, also find up-to-date information on upcoming gigs and links to the band's other pages. The Contact page enables fans and promoters to get in touch with the band to submit queries/booking requests
 ### Use Cases
-   1. Fans of the band: As a fan or follower of the band, I'd like to find out more about them, see photos and videos of previous gigs and find out where the next gigs are going to be and when. I would also like to be able to get in touch with them, to find out how much it would cost to book them for a private party. 
-   2. Pub / Club promoters: As a pub landlord I'd like to find out more about the band, see photos and videos of previous gigs to assess if the quality and style of their music would fit in with my venue. I want to see when their upcoming gigs are and when, so I can attend and see what they are like live, before I consider booking them. I would also like to be able to get in touch with them to discuss potential bookings for the future. 
+   1. New fans of the band: As someone who has only just discovered the band, I'd like to find out more about them, see photos and videos of previous gigs and find out where the next gigs are going to be and when. I would also like to be able to get in touch with them, to find out how much it would cost to book them for a private party.
+   2. Established fans: As someone who has been following the band for a while, I'd like to find out about upcoming gigs, I would also like to be able to get in touch with them to find out if they have any merchandise or songs available for digital download to support them even further
+   3. Pub / Club promoters: As a pub landlord I'd like to find out more about the band, see photos and videos of previous gigs to assess if the quality and style of their music would fit in with my venue. I want to see when their upcoming gigs are and when, so I can attend and see what they are like live, before I consider booking them. I would also like to be able to get in touch with them to discuss potential bookings for the future. 
 ## Testing
    I used the link to the live page [https://ubi-feher.github.io/Milestone_Project_1/index.html] to carry out some functional testing, due to lack of time this section is not as well documented as I would have liked.
   1. First I made sure the page loads as expected and the navigation menu works and it highlights the page name when the user hovers over it:
@@ -37,12 +39,15 @@ to create a website where the band can share information, content and upcoming g
    For the mobile version both the photos and videos appear in individual lines to make them easier to view
    ![Photos in Gallery-mobile](https://github.com/user-attachments/assets/34107f0d-a4ef-4008-ba6b-b7e0d7bd598e)
 ![Videos in Gallery-mobile](https://github.com/user-attachments/assets/02f959e2-b0ee-4383-9ca1-c2981a3be92e)
-  4. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info
+
+   4. I tested the video links to make sure they play both in the desktop and mobile versions
+      ![ 
+  6. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info
    ![Contact Page-prompt](https://github.com/user-attachments/assets/17d2eda7-a4b5-4d5b-bf4b-b756fe099799)
 
   5. When the user completes the form correctly and submits it, they are taken to the Confirmation page
     ![Contact form submission](https://github.com/user-attachments/assets/80faed62-6c00-45d5-b908-f24b9749fb17)
-
+   6. 
       
 ### Bugs discovered
    I wanted to add a toggle button for the navigation bar to follow good UX principles when the page is viewed on a mobile, I tried to use the Bootstrap navbar toggle function for this, however when I applied it to the pages the button was invisible. Unfortunately I ran out of time and wasn't able to fix this issue so I removed the toggle function and opted for a simpler nav bar where the items align vertically on mobiles, to make sure I have a working solution.
