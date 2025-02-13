@@ -43,7 +43,8 @@ Users will be able to find information on the band and its members, check out ph
    4. I tested the video links to make sure they play both in the desktop and mobile versions
    ![Video playing-desktop](https://github.com/user-attachments/assets/e3797296-06af-41eb-8d16-d8c96a65942f)
    ![Video playing-mobile](https://github.com/user-attachments/assets/50748f53-d33b-4b83-b3e0-b166fb3fd6ad)
-   5. I tested the links to the band's Facebook and Lemonrock pages to make sure they display when the user hovers over them 
+
+   6. I tested the links to the band's Facebook and Lemonrock pages to make sure they display when the user hovers over them 
       ![Facebook link-desktop](https://github.com/user-attachments/assets/1007c482-518a-484a-92b6-9379debee040)
 ![Facebook link-mobile](https://github.com/user-attachments/assets/c0142976-efab-458c-a1ff-462c26bc0dd9)
 ![Lemonrock link-desktop](https://github.com/user-attachments/assets/00faa222-aac2-4ce0-a2d7-f7b96d3eaabb)
@@ -54,6 +55,7 @@ Users will be able to find information on the band and its members, check out ph
 ![Facebook page-mobile](https://github.com/user-attachments/assets/20a8622d-06c5-44c3-a7e3-4f2d0d0a5e37)
 ![Lemonrock page-desktop](https://github.com/user-attachments/assets/2dbbf773-2141-456a-8fab-7c25f18ee80d)
 ![Lemonrock page-mobile](https://github.com/user-attachments/assets/6962ea3a-5dbf-4c0c-a987-773895064375)
+
   6. On the Contact page, if the user tries to submit the form without completing all the required fields, they get a prompt and cannot submit until they fill in the missing info
    ![Contact Page-prompt](https://github.com/user-attachments/assets/17d2eda7-a4b5-4d5b-bf4b-b756fe099799)
 
