@@ -1,8 +1,17 @@
-README file for Milestone Project 1 - The Xzitz
+# The Xzitz
+# A responsive website for a covers band to showcase their talents and engage with fans and promoters
+## README file for Code Institute - Milestone Project 1
+### HTML/CSS Essentials - User Scentric, Static Front-End Website
+[ View repository in GitHub pages] (https://github.com/ubi-feher/Milestone_Project_1)
+[View Website Link] (https://ubi-feher.github.io/Milestone_Project_1/index.html)
 
+## Project goal: 
+to create a website where the band can share information, content and upcoming gigs with fans, they also need a page where fans or potential promoters can submit queries and booking requests.  
+## Business goal:
++ Increase following on social media
++ Increase number of new bookings for gigs
 ## UX / UI
-### Project goal: 
-      to create a website where the band can share information, content and upcoming gigs with fans, they also need a page where fans or potential promoters can submit queries and booking requests.  
+
 ### Use Cases
    1. Fans of the band: As a fan or follower of the band, I'd like to find out more about them, see photos and videos of previous gigs and find out where the next gigs are going to be and when. I would also like to be able to get in touch with them, to find out how much it would cost to book them for a private party. 
    2. Pub / Club promoters: As a pub landlord I'd like to find out more about the band, see photos and videos of previous gigs to assess if the quality and style of their music would fit in with my venue. I want to see when their upcoming gigs are and when, so I can attend and see what they are like live, before I consider booking them. I would also like to be able to get in touch with them to discuss potential bookings for the future. 
