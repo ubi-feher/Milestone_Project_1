@@ -48,6 +48,7 @@ Users will be able to find information on the band and its members, check out ph
 ![Facebook link-mobile](https://github.com/user-attachments/assets/c0142976-efab-458c-a1ff-462c26bc0dd9)
 ![Lemonrock link-desktop](https://github.com/user-attachments/assets/00faa222-aac2-4ce0-a2d7-f7b96d3eaabb)
 ![Lemonrock link-mobile](https://github.com/user-attachments/assets/06794f00-1028-4571-8319-6d7b06eca732)
+  
    and then load the page when the user clicks on them
 ![Facebook page-desktop](https://github.com/user-attachments/assets/4c8c94a4-02af-47e7-a891-488cde6bd0d7)
 ![Facebook page-mobile](https://github.com/user-attachments/assets/20a8622d-06c5-44c3-a7e3-4f2d0d0a5e37)
