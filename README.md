@@ -1,7 +1,7 @@
 # The Xzitz
 # A responsive website for a covers band to showcase their talents and engage with fans and promoters
 ## README file for Code Institute - Milestone Project 1
-### HTML/CSS Essentials - User Scentric, Static Front-End Website
+### HTML/CSS Essentials - User-centric, Static Front-End Website
 [ View repository in GitHub pages] (https://github.com/ubi-feher/Milestone_Project_1)
 
 [View Website Link] (https://ubi-feher.github.io/Milestone_Project_1/index.html)
